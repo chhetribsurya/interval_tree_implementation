@@ -1,1 +1,1 @@
-# Interval tree implementation for genomic loci intersection
+# Interval tree implementation for Genomic loci intersection
